@@ -6,7 +6,7 @@
   "scripts": {
     "check": "mongodb-js-precommit",
     "test": "mocha",
-    "ci": "./node_modules/istanbul/lib/cli.js cover _mocha -- -R spec ./test/*.test.js"
+    "ci": "mocha"
   },
   "bin": {
     "mongodb-dbpath": "./bin/mongodb-dbpath.js"

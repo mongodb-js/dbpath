@@ -1,4 +1,4 @@
-# mongodb-dbpath [![][npm_img]][npm_url] [![][travis_img]][travis_url] [![][coverage_img]][coverage_url] [![][gitter_img]][gitter_url]
+# mongodb-dbpath [![][npm_img]][npm_url] [![][travis_img]][travis_url] [![][appveyor_img]][appveyor_url] [![][gitter_img]][gitter_url]
 
 > Get a path for `--dbpath` that's writeable for the current user and mkdirp it.
 
@@ -66,7 +66,7 @@ Apache 2.0
 [travis_url]: https://travis-ci.org/mongodb-js/mongodb-dbpath
 [npm_img]: https://img.shields.io/npm/v/mongodb-dbpath.svg
 [npm_url]: https://www.npmjs.org/package/mongodb-dbpath
-[coverage_img]: https://coveralls.io/repos/mongodb-js/mongodb-dbpath/badge.svg?branch=master
-[coverage_url]: https://coveralls.io/r/mongodb-js/mongodb-dbpath
+[appveyor_img]: https://ci.appveyor.com/api/projects/status/voa841j5ke8jtpfh?svg=true
+[appveyor_url]: https://ci.appveyor.com/project/imlucas/mongodb-dbpath
 [gitter_img]: https://badges.gitter.im/Join%20Chat.svg
 [gitter_url]: https://gitter.im/mongodb-js/mongodb-js
